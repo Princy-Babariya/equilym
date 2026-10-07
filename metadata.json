@@ -1,0 +1,8 @@
+{
+  "name": "Automated Healthcare Insight Engine",
+  "description": "General-purpose district-level healthcare performance analytics and automated insight generation engine with trend, outlier, and correlation detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
